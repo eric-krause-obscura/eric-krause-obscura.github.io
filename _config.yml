@@ -1,5 +1,14 @@
 title: Eric Krause Obscura Portfolio
-plugins: 
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
   - jekyll-feed
   - jekyll-include-cache
-remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+
+# Optional: pick a skin (prebuilt color scheme)
+minimal_mistakes_skin: "dark"
+
+# Basic site settings
+author:
+  name: "Your Name"
+  email: "you@example.com"
+paginate: 5
