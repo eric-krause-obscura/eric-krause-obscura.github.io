@@ -1,3 +1,5 @@
 title: Eric Krause Obscura Portfolio
-theme: minimal-mistakes-jekyll
-plugins: [jekyll-feed]
+plugins: 
+  - jekyll-feed
+  - jekyll-include-cache
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
