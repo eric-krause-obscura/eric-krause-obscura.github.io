@@ -16,6 +16,6 @@ permalink: /
   <img src="/assets/images/The Heavenly Ceiling.jpg" alt="The Heavenly Ceiling">
   <figcaption>
     <h3>The Heavenly Ceiling</h3>
-    <p>When there are no more limits, can even the Heavens hold us back?</p>
+    <p>When there are no more restrictions, can even the Heavens hold us back?</p>
   </figcaption>
 </figure>
