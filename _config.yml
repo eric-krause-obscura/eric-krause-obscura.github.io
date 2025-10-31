@@ -1,4 +1,4 @@
-title: Eric Krause Obscura Portfolio
+title: Eric Krause Obscura
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
@@ -9,6 +9,17 @@ minimal_mistakes_skin: "dark"
 
 # Basic site settings
 author:
-  name: "Your Name"
+  name: "Eric Krause"
   email: "you@example.com"
 paginate: 5
+
+# Main navigation links
+nav:
+  - title: "Home"
+    url: /
+  - title: "About the Artist"
+    url: /about/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Contact"
+    url: /contact/
