@@ -14,7 +14,7 @@ author:
 paginate: 5
 
 # Main navigation links
-nav:
+main:
   - title: "Home"
     url: /
   - title: "About the Artist"
@@ -23,3 +23,10 @@ nav:
     url: /portfolio/
   - title: "Contact"
     url: /contact/
+
+# Enable navigation bar
+defaults:
+  - scope:
+      path: ""
+    values:
+      navigation: main
