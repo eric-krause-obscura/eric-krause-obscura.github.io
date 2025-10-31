@@ -12,3 +12,10 @@ permalink: /
     <p>Out of the fog, arose a tower.  There were no entrances or exits.</p>
   </figcaption>
 </figure>
+<figure>
+  <img src="/assets/images/The Heavenly Ceiling.jpg" alt="The Heavenly Ceiling">
+  <figcaption>
+    <h3>The Heavenly Ceiling</h3>
+    <p>When there are no more limits, can even the Heavens hold us back?</p>
+  </figcaption>
+</figure>
