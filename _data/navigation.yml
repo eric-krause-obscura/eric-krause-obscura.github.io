@@ -1,0 +1,9 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "About the Artist"
+    url: /about/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Contact"
+    url: /contact/
