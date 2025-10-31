@@ -23,10 +23,3 @@ main:
     url: /portfolio/
   - title: "Contact"
     url: /contact/
-
-# Enable navigation bar
-defaults:
-  - scope:
-      path: ""
-    values:
-      navigation: main
