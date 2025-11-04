@@ -12,7 +12,7 @@ Here you’ll find a curated selection of my work.
     <h3>Symbol</h3>
     <p>Next to the Symbol, the corruption had already started</p>
   </figcaption>
-  <img src="/assets/images/Symbol" alt="Symbol">
+  <img src="/assets/images/Symbol.jpg" alt="Symbol">
 </figure>
 <figure>
   <figcaption>
