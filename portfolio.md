@@ -19,14 +19,14 @@ Here you’ll find a curated selection of my work.
     <h3>Tiles</h3>
     <p>The tiles felt like ice.</p>
   </figcaption>
-  <img src="/assets/images/Tiles.jpg" alt="Tiles" max-width:900px>
+  <img src="/assets/images/Tiles.jpg" alt="Tiles">
 </figure>
 <figure>
   <figcaption>
     <h3>The Lake</h3>
     <p>The markers appeared, seemingly overnight.</p>
   </figcaption>
-  <img src="/assets/images/The Lake.jpg" alt="Incantation" max-width:900px>
+  <img src="/assets/images/The Lake.jpg" alt="Incantation">
 </figure>
 <figure>
   <figcaption>
