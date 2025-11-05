@@ -2,6 +2,8 @@
 layout: single
 title: "The Structure"
 permalink: /TheThinPlaces/TheStructure/
+sidebar:
+  nav: "thinplaces"
 ---
 The darkness inside was like an ink stain, spreading.
 
