@@ -7,4 +7,4 @@ sidebar:
 ---
 All attempts at translation failed.
 
-![The Structure](/assets/images/Incantation.jpg)
+![Incantation](/assets/images/Incantation.jpg)
