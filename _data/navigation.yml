@@ -5,9 +5,6 @@ main:
     url: /about/
   - title: "The Thin Places"
     url: /TheThinPlaces/
-    children:
-      - title: "The Structure"
-        url: /portfolio/TheStructure/
   - title: "Contact"
     url: /contact/
 thinplaces:
