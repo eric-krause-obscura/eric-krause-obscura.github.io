@@ -5,4 +5,4 @@ permalink: /TheThinPlaces/TheStructure/
 ---
 The darkness inside was like an ink stain, spreading.
 
-![The Structure](/assets/images/The Structure.jpg)
+![The Structure](/assets/images/The%20Structure.jpg)
