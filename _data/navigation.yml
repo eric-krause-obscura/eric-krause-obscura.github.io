@@ -13,5 +13,15 @@ thinplaces:
     children:
       - title: "The Structure"
         url: /TheThinPlaces/TheStructure/
+      - title: "The Tower"
+        url: /TheThinPlaces/TheTower/
       - title: "The Heavenly Ceiling"
         url: /TheThinPlaces/TheHeavenlyCeiling/
+      - title: "Symbol"
+        url: /TheThinPlaces/Symbol/
+      - title: "Tiles"
+        url: /TheThinPlaces/Tiles/
+      - title: "The Lake"
+        url: /TheThinPlaces/TheLake/
+      - title: "Incantation"
+        url: /TheThinPlaces/Incantation/
