@@ -4,7 +4,7 @@ main:
   - title: "About the Artist"
     url: /about/
   - title: "The Thin Places"
-    url: /TheThinPLaces/
+    url: /TheThinPlaces/
     children:
       - title: "The Structure"
         url: /portfolio/TheStructure/
