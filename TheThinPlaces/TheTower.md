@@ -7,4 +7,4 @@ sidebar:
 ---
 Out of the fog, arose a tower. There were no entrances or exits.
 
-![The Structure](/assets/images/The%20Tower.jpg)
+![The Tower](/assets/images/The%20Tower.jpg)
