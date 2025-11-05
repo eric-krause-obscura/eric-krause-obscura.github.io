@@ -9,6 +9,13 @@ Here you’ll find a curated selection of my work.
 ## Selected Work
 <figure>
   <figcaption>
+    <h3>The Structure</h3>
+    <p>The darkness inside was like an ink stain, spreading.</p>
+  </figcaption>
+  <img src="/assets/images/The Structure.jpg" alt="The Structure">
+</figure>
+<figure>
+  <figcaption>
     <h3>Symbol</h3>
     <p>Next to the Symbol, the corruption had already started</p>
   </figcaption>
