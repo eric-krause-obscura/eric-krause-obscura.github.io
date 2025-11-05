@@ -10,3 +10,9 @@ main:
         url: /portfolio/TheStructure/
   - title: "Contact"
     url: /contact/
+thinplaces:
+  - title: "The Thin Places"
+    url: /TheThinPlaces/
+    children:
+      - title: "The Structure"
+        url: /TheThinPlaces/TheStructure/
