@@ -3,7 +3,10 @@ main:
     url: /
   - title: "About the Artist"
     url: /about/
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "The Thin Places"
+    url: /TheThinPLaces/
+        children:
+      - title: "The Structure"
+        url: /portfolio/TheStructure/
   - title: "Contact"
     url: /contact/
