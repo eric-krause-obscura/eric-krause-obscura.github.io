@@ -4,6 +4,7 @@ title: "The Lake"
 permalink: /TheThinPlaces/TheLake/
 sidebar:
   nav: "thinplaces"
+classes: wide
 ---
 The markers appeared, seemingly overnight.
 
