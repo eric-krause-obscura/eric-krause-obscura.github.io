@@ -13,3 +13,5 @@ thinplaces:
     children:
       - title: "The Structure"
         url: /TheThinPlaces/TheStructure/
+      - title: "The Heavenly Ceiling"
+        url: /TheThinPlaces/TheHeavenlyCeiling/
