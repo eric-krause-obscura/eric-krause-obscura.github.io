@@ -1,0 +1,6 @@
+thinplaces:
+  - title: "The Thin Places"
+    url: /TheThinPlaces/
+    children:
+      - title: "The Structure"
+        url: /TheThinPlaces/TheStructure/
