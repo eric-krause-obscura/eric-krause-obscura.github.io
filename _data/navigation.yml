@@ -11,6 +11,10 @@ thinplaces:
   - title: "The Thin Places"
     url: /TheThinPlaces/
     children:
+      - title: "Reaching"
+        url: /TheThinPlaces/Reaching/
+      - title: "The Scream"
+        url: /TheThinPlaces/TheScream/
       - title: "The Structure"
         url: /TheThinPlaces/TheStructure/
       - title: "The Tower"
