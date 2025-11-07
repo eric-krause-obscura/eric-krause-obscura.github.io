@@ -25,6 +25,8 @@ thinplaces:
         url: /TheThinPlaces/TheHeavenlyCeiling/
       - title: "Symbol"
         url: /TheThinPlaces/Symbol/
+      - title: "Stain"
+        url: /TheThinPlaces/Stain/
       - title: "Tiles"
         url: /TheThinPlaces/Tiles/
       - title: "The Lake"
