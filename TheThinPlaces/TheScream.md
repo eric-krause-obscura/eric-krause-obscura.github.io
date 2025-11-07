@@ -7,4 +7,4 @@ sidebar:
 ---
 For those that listen, they can hear it.  In the howling wind, through the hum of the world.
 
-!The Scream](/assets/images/The%20Scream.jpg)
+![The Scream](/assets/images/The%20Scream.jpg)
