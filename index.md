@@ -4,7 +4,7 @@ title: "Eric Krause Obscura"
 permalink: /
 header:
   overlay_color: "#000"
-  overlay_filter: "0.3"
+  overlay_filter: "0.5"
   overlay_image:
     - "/assets/images/Reaching.jpg"
   caption: "Reaching"
@@ -22,3 +22,5 @@ feature_row:
     title: "Nest"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
+
+{% include feature_row %}
