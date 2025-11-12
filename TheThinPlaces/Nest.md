@@ -5,6 +5,6 @@ permalink: /TheThinPlaces/Nest/
 sidebar:
   nav: "thinplaces"
 ---
-Something had already emerged.  It's too late.
+Something had already emerged.  It was too late.
 
 ![Nest](/assets/images/Nest.jpg)
