@@ -5,8 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image:
-    - "/assets/images/Reaching.jpg"
+  overlay_image: "/assets/images/Reaching.jpg"
   caption: "Reaching"
 excerpt: "Exploring the surreal in the mundane — moments when reality thins and the other world bleeds through."
 feature_row:
