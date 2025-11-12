@@ -18,7 +18,7 @@ feature_row:
     alt: "The Tower"
     title: "The Tower"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/Nestjpg
+  - image_path: /assets/images/Nest.jpg
     title: "Nest"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
