@@ -25,7 +25,33 @@ body {
 }
 
 .masthead,
+.masthead__inner-wrap {
+  background-color: #0e0e0e !important; // same as your dark body
+  border-bottom: 1px solid #222;        // subtle divider
+}
+
+.masthead__menu-item a {
+  color: #ddd !important;
+}
+
+.masthead__menu-item a:hover {
+  color: #fff !important;
+  text-decoration: none;
+}
+
 .sidebar {
-  background-color: rgba(10, 10, 10, 0.9); // translucent black
-  backdrop-filter: blur(4px);
+  background-color: #0e0e0e; // match dark background
+  border-right: 1px solid #222;
+}
+
+.nav__sub-title {
+  color: #aaa;
+}
+
+.nav__items a {
+  color: #ccc;
+}
+
+.nav__items a:hover {
+  color: #fff;
 }
