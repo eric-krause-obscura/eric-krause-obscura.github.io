@@ -1,0 +1,19 @@
+---
+# Only the three dashes — this tells Jekyll to process it
+---
+
+@import "minimal-mistakes"; // Keep this line if it’s already there
+
+// === Custom button color overrides ===
+
+// Primary button
+.btn--primary {
+  background-color: #3a3a3a;   // dark grey (change as desired)
+  border-color: #3a3a3a;
+  color: #ffffff;              // white text
+}
+
+.btn--primary:hover {
+  background-color: #555;      // slightly lighter on hover
+  border-color: #555;
+}
