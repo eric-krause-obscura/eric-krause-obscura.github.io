@@ -20,7 +20,7 @@ feature_row:
   - image_path: /assets/images/Nest.jpg
     title: "Nest"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/The%Heavenly%Ceiling.jpg
+  - image_path: /assets/images/The%20Heavenly%20Ceiling.jpg
     title: "The Heavenly Ceiling"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/Wound.jpg
