@@ -24,19 +24,38 @@ body {
   color: #e0e0e0;           // light gray text for readability
 }
 
-.masthead,
+// === Top Navigation Bar Overrides ===
+
+// Outer header wrap
+.masthead {
+  background-color: #0e0e0e !important;
+  border-bottom: 1px solid #222 !important;
+}
+
+// Inner container that actually shows the color behind links
 .masthead__inner-wrap {
-  background-color: #0e0e0e !important; // same as your dark body
-  border-bottom: 1px solid #222;        // subtle divider
+  background-color: #0e0e0e !important;
 }
 
-.masthead__menu-item a {
+// The site title and links
+.site-title,
+.masthead__menu-item a,
+.greedy-nav a,
+.greedy-nav__toggle {
   color: #ddd !important;
+  background-color: transparent !important;
 }
 
-.masthead__menu-item a:hover {
+// On hover or focus
+.masthead__menu-item a:hover,
+.greedy-nav a:hover {
   color: #fff !important;
   text-decoration: none;
+}
+
+// Optional: adjust the “hamburger” menu color on mobile
+.greedy-nav__toggle {
+  border-color: #ddd !important;
 }
 
 .sidebar {
