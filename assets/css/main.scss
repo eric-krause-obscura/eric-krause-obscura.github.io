@@ -48,7 +48,18 @@ body {
 
 // On hover or focus
 .masthead__menu-item a:hover,
-.greedy-nav a:hover {
+
+.greedy-nav {
+  background-color: #0e0e0e !important; // match your site background
+}
+
+.greedy-nav a,
+.greedy-nav__toggle {
+  color: #ddd !important;
+}
+
+.greedy-nav a:hover,
+.greedy-nav__toggle:hover {
   color: #fff !important;
   text-decoration: none;
 }
