@@ -10,16 +10,23 @@ header:
 excerpt: "Exploring the surreal in the mundane — moments when reality thins and the other world bleeds through."
 feature_row:
   - image_path: /assets/images/Symbol.jpg
-    alt: "Symbol"
     title: "Symbol"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "/TheThinPlaces/Symbol"
+    btn_label: "Symbol"
+    btn_class: "btn--primary"
   - image_path: /assets/images/The%20Tower.jpg
-    alt: "The Tower"
     title: "The Tower"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "/TheThinPlaces/TheTower"
+    btn_label: "TheTower"
+    btn_class: "btn--primary"
   - image_path: /assets/images/Nest.jpg
     title: "Nest"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "/TheThinPlaces/Nest"
+    btn_label: "Nest"
+    btn_class: "btn--primary"
   - image_path: /assets/images/The%20Heavenly%20Ceiling.jpg
     title: "The Heavenly Ceiling"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
