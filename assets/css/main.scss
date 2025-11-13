@@ -23,3 +23,9 @@ body {
   background-color: #0e0e0e; // near-black background
   color: #e0e0e0;           // light gray text for readability
 }
+
+.masthead,
+.sidebar {
+  background-color: rgba(10, 10, 10, 0.9); // translucent black
+  backdrop-filter: blur(4px);
+}
