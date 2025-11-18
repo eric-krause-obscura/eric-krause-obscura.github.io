@@ -6,6 +6,6 @@ sidebar:
   nav: "thinplaces"
 classes: wide
 ---
-The markers appeared, seemingly overnight.
+Driven into the wall, the dangling rope moved, even without wind.
 
 ![Spike](/assets/images/Spike.jpg)
