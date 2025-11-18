@@ -27,6 +27,8 @@ thinplaces:
         url: /TheThinPlaces/Symbol/
       - title: "Stain"
         url: /TheThinPlaces/Stain/
+      - title: "Spike"
+        url: /TheThinPlaces/Spike/
       - title: "Tiles"
         url: /TheThinPlaces/Tiles/
       - title: "The Lake"
