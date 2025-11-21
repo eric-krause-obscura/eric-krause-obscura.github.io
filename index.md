@@ -11,31 +11,40 @@ excerpt: "Exploring the surreal in the mundane — moments when reality thins an
 feature_row:
   - image_path: /assets/images/Symbol.jpg
     title: "Symbol"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "**Next to the Symbol...**"
     url: "/TheThinPlaces/Symbol"
     btn_label: "Symbol"
     btn_class: "btn--primary"
   - image_path: /assets/images/The%20Tower.jpg
     title: "The Tower"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "**Out of the fog...**"
     url: "/TheThinPlaces/TheTower"
-    btn_label: "TheTower"
+    btn_label: "The Tower"
     btn_class: "btn--primary"
   - image_path: /assets/images/Nest.jpg
     title: "Nest"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "**Something...**"
     url: "/TheThinPlaces/Nest"
     btn_label: "Nest"
     btn_class: "btn--primary"
   - image_path: /assets/images/The%20Heavenly%20Ceiling.jpg
     title: "The Heavenly Ceiling"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "**The heavens...**"
+    url: "/TheThinPlaces/TheHeavenlyCeiling"
+    btn_label: "The Heavenly Ceiling"
+    btn_class: "btn--primary"
   - image_path: /assets/images/Wound.jpg
     title: "Wound"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "**A gash appeared...**"
+    url: "/TheThinPlaces/Wound"
+    btn_label: "Wound"
+    btn_class: "btn--primary"
   - image_path: /assets/images/Stain.jpg
     title: "Stain"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "**This was...**"
+    url: "/TheThinPlaces/Stain"
+    btn_label: "Stain"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row %}
