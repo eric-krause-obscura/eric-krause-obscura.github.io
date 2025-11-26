@@ -86,15 +86,19 @@ body {
   color: #fff;
 }
 
-.triptych {
-  display: flex;
+.page__content .triptych {
+  display: flex !important;
+  flex-direction: row !important;
   justify-content: space-between;
   gap: 1rem;
 }
 
-.triptych img {
-  width: 100%;
-  max-width: 100%;
-  flex: 1;
+.page__content .triptych img {
+  flex: 1 1 33.333% !important;
+  width: 33.333% !important;
+  height: auto;
   object-fit: cover; /* optional */
+  margin: 0 !important;
+  padding: 0 !important;
+  display: block !important;
 }
