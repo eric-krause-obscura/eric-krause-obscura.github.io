@@ -5,7 +5,7 @@ permalink: /TheThinPlaces/LightBreaksTriptych/
 sidebar:
   nav: "thinplaces"
 ---
-Out of the fog, arose a tower. There were no entrances or exits.
+Between the decay, light sometimes peaks through.
 
 <div class="triptych">
   <img src="/assets/images/LightBreaksOne.jpg" alt="">
