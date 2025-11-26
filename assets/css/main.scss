@@ -85,3 +85,16 @@ body {
 .nav__items a:hover {
   color: #fff;
 }
+
+.triptych {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.triptych img {
+  width: 100%;
+  max-width: 100%;
+  flex: 1;
+  object-fit: cover; /* optional */
+}
