@@ -5,7 +5,7 @@ permalink: /TheThinPlaces/LightBreaksTriptych/
 sidebar:
   nav: "thinplaces"
 ---
-Between the decay, light sometimes peaks through.
+Amidst the corrosion, light sometimes peaks through.
 
 <div class="triptych">
   <img src="/assets/images/LightBreaksOne.jpg" alt="">
