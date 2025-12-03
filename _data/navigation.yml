@@ -19,11 +19,11 @@ thinplaces:
         url: TheThinPlaces/LightBreaksTriptych/
         children:
           - title: "Light Breaks One"
-            url: TheThinPlaces/LightBreaksOne/
+            url: /TheThinPlaces/LightBreaksOne/
           - title: "Light Breaks Two"
-            url: TheThinPlaces/LightBreaksTwo/
+            url: /TheThinPlaces/LightBreaksTwo/
           - title: "Light Breaks Three"
-            url: TheThinPlaces/LightBreaksThree/
+            url: /TheThinPlaces/LightBreaksThree/
       - title: "Wound"
         url: /TheThinPlaces/Wound/
       - title: "The Structure"
