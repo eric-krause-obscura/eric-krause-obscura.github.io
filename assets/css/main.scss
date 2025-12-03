@@ -93,12 +93,16 @@ body {
   gap: 1rem;
 }
 
-.page__content .triptych img {
+.page__content .triptych a {
   flex: 1 1 33.333% !important;
-  width: 33.333% !important;
-  height: auto;
-  object-fit: cover; /* optional */
+  display: block !important;        /* makes the anchor act like a block element */
   margin: 0 !important;
   padding: 0 !important;
-  display: block !important;
+}
+
+.page__content .triptych img {
+  width: 100% !important;           /* fill the anchor container */
+  height: auto !important;
+  object-fit: cover !important;
+  display: block !important; 
 }
