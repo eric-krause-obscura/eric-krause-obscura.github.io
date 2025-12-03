@@ -17,13 +17,12 @@ thinplaces:
         url: /TheThinPlaces/TheScream/
       - title: "Light Breaks Triptych"
         url: /TheThinPlaces/LightBreaksTriptych/
-        children:
-          - title: "Light Breaks One"
-            url: /TheThinPlaces/LightBreaksTriptych/LightBreaksOne/
-          - title: "Light Breaks Two"
-            url: /TheThinPlaces/LightBreaksTriptych/LightBreaksTwo/
-          - title: "Light Breaks Three"
-            url: /TheThinPlaces/LightBreaksTriptych/LightBreaksThree/
+      - title: "Light Breaks One"
+        url: /TheThinPlaces/LightBreaksTriptych/LightBreaksOne/
+      - title: "Light Breaks Two"
+        url: /TheThinPlaces/LightBreaksTriptych/LightBreaksTwo/
+      - title: "Light Breaks Three"
+        url: /TheThinPlaces/LightBreaksTriptych/LightBreaksThree/
       - title: "Wound"
         url: /TheThinPlaces/Wound/
       - title: "The Structure"
