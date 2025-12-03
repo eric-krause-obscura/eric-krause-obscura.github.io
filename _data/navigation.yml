@@ -16,7 +16,7 @@ thinplaces:
       - title: "The Scream"
         url: /TheThinPlaces/TheScream/
       - title: "Light Breaks Triptych"
-        url: TheThinPlaces/LightBreaksTriptych/
+        url: /TheThinPlaces/LightBreaksTriptych/
         children:
           - title: "Light Breaks One"
             url: /TheThinPlaces/LightBreaksOne/
