@@ -29,6 +29,8 @@ thinplaces:
         url: /TheThinPlaces/TheStructure/
       - title: "The Tower"
         url: /TheThinPlaces/TheTower/
+      - title: "The Eye"
+        url: /TheThinPlaces/TheEye/
       - title: "The Heavenly Ceiling"
         url: /TheThinPlaces/TheHeavenlyCeiling/
       - title: "Symbol"
