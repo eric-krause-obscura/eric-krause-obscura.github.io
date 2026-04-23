@@ -8,4 +8,4 @@ classes: wide
 ---
 The lines meet, and a nexus forms.
 
-![The Eye](/assets/images/The Intersection.jpg)
+![The Eye](/assets/images/The%20Intersection.jpg)
