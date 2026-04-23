@@ -41,7 +41,9 @@ thinplaces:
         url: /TheThinPlaces/Spike/
       - title: "Tiles"
         url: /TheThinPlaces/Tiles/
-      - title: "The Lake"
+      - title: "The Intersection"
+        url: /TheThinPlaces/TheIntersection/
+      - title: "Incantation"
         url: /TheThinPlaces/TheLake/
       - title: "Incantation"
         url: /TheThinPlaces/Incantation/
